@@ -1,5 +1,5 @@
 
-const SCROLL_LINE_COUNT = 1;
+const SCROLL_LINE_COUNT = 3;
 
 const SCROLL_HORIZONTAL_PIXELS = 5;
 
